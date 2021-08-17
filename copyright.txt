@@ -1,0 +1,4 @@
+# Copyright © 2016-present
+# QuantumBlack Visual Analytics Ltd (a McKinsey company)
+# All rights reserved.
+#
